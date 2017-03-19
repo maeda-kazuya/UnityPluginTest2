@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PluginTest2_simulator.unity
+  isLoaded: 1
+  isActive: 1
